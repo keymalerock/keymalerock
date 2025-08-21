@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning kakfa and kubernetes, mongo ,auth2.0
 - 💞️ I’m looking to collaborate on project managment and I have experience with DataBase like Oracle, Maria, firebird, etc
 - 📫 How to reach me by email
+- And of course I've done the basic step in AWS, I won my first million with AWS 
 
 <!---
 keymalerock/keymalerock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
